@@ -1,0 +1,114 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?fbsvxq');
+  src:  url('fonts/icomoon.eot?fbsvxq#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?fbsvxq') format('truetype'),
+    url('fonts/icomoon.woff?fbsvxq') format('woff'),
+    url('fonts/icomoon.svg?fbsvxq#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-logo:before {
+  content: "\e902";
+}
+.icon-proveedor:before {
+  content: "\e904";
+}
+.icon-cliente:before {
+  content: "\e900";
+}
+.icon-finanzas:before {
+  content: "\e901";
+}
+.icon-procesos:before {
+  content: "\e903";
+}
+.icon-roles:before {
+  content: "\e90c";
+}
+.icon-usuario:before {
+  content: "\e90d";
+}
+.icon-advertencia:before {
+  content: "\e905";
+}
+.icon-dashboard:before {
+  content: "\e90f";
+}
+.icon-home:before {
+  content: "\e911";
+}
+.icon-image:before {
+  content: "\e90e";
+}
+.icon-images:before {
+  content: "\e910";
+}
+.icon-camera:before {
+  content: "\e912";
+}
+.icon-stack:before {
+  content: "\e92f";
+}
+.icon-clock2:before {
+  content: "\e950";
+}
+.icon-user:before {
+  content: "\e972";
+}
+.icon-users:before {
+  content: "\e973";
+}
+.icon-user-plus:before {
+  content: "\e974";
+}
+.icon-user-minus:before {
+  content: "\e975";
+}
+.icon-user-check:before {
+  content: "\e976";
+}
+.icon-unlocked:before {
+  content: "\e991";
+}
+.icon-eye:before {
+  content: "\e9cf";
+}
+.icon-eye-plus:before {
+  content: "\e9d0";
+}
+.icon-eye-minus:before {
+  content: "\e9d1";
+}
+.icon-eye-blocked:before {
+  content: "\e9d2";
+}
+.icon-sun:before {
+  content: "\e9d5";
+}
+.icon-contrast:before {
+  content: "\e9d6";
+}
+.icon-brightness-contrast:before {
+  content: "\e9d7";
+}
+.icon-star-empty:before {
+  content: "\e9d8";
+}
